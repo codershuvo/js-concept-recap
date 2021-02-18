@@ -1,0 +1,8 @@
+single threated 
+interpreted / just in time compiled 
+client site 
+node use kore back end a use kora jai
+
+
+javascript k run korar jonno ak ta engine ache v8 engine google chrome a ache
+
